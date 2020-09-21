@@ -1,0 +1,17 @@
+/SourceCode/.vs
+/SourceCode/x64
+/SourceCode/Simplegame/x64
+/gitnote
+*.ilk
+*.pdb
+*.obj
+*.log
+*.pch
+*.idb
+*.tlog
+*.lastbuildstate
+*.suo
+*.db
+*.iobj
+*.ipdb
+*.ipch

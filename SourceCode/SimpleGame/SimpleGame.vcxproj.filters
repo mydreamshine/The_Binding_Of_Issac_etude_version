@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Shaders">
+      <UniqueIdentifier>{aa86e47f-445f-4440-9a76-173363b46c4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Resource">
+      <UniqueIdentifier>{7d2a1332-8925-486c-af74-fcd3f1cb97d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Resource\Graphic">
+      <UniqueIdentifier>{9d9a7086-1e15-4eea-ab3f-b1a48acd6e88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameObject.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CSceneManager.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadPng.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometric.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CScene.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionFunc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameObject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CSceneManager.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadPng.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CScene.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionFunc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resource\Graphic\Isaac_Test.png">
+      <Filter>소스 파일\Resource\Graphic</Filter>
+    </Image>
+    <Image Include="Resource\Graphic\Issac.png">
+      <Filter>소스 파일\Resource\Graphic</Filter>
+    </Image>
+    <Image Include="Resource\Graphic\shadow.png">
+      <Filter>소스 파일\Resource\Graphic</Filter>
+    </Image>
+    <Image Include="Resource\Graphic\Isaac_sheet.png">
+      <Filter>소스 파일\Resource\Graphic</Filter>
+    </Image>
+    <Image Include="Resource\Graphic\Isaac_head.png">
+      <Filter>소스 파일\Resource\Graphic</Filter>
+    </Image>
+    <Image Include="Resource\Graphic\Isaac_leftright.png">
+      <Filter>소스 파일\Resource\Graphic</Filter>
+    </Image>
+    <Image Include="Resource\Graphic\Isaac_updown.png">
+      <Filter>소스 파일\Resource\Graphic</Filter>
+    </Image>
+    <Image Include="Resource\Graphic\tear.png">
+      <Filter>소스 파일\Resource\Graphic</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\Shaders\SolidRect.fs">
+      <Filter>소스 파일\Shaders</Filter>
+    </None>
+    <None Include="Resource\Shaders\SolidRect.vs">
+      <Filter>소스 파일\Shaders</Filter>
+    </None>
+    <None Include="Resource\Shaders\TextureRect.fs">
+      <Filter>소스 파일\Shaders</Filter>
+    </None>
+    <None Include="Resource\Shaders\TextureRect.vs">
+      <Filter>소스 파일\Shaders</Filter>
+    </None>
+    <None Include="Resource\Shaders\TextureRectSeq.fs">
+      <Filter>소스 파일\Shaders</Filter>
+    </None>
+    <None Include="Resource\Shaders\TextureRectSeq.vs">
+      <Filter>소스 파일\Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>
