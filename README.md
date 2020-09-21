@@ -1,7 +1,7 @@
 # Acceleration-based sprite animation
-<img src="https://user-images.githubusercontent.com/32826146/93765142-5a8c9500-fc4f-11ea-856b-f93dd1956a09.gif" width="50%" height="50%"></img>
+<img src="https://user-images.githubusercontent.com/32826146/93765142-5a8c9500-fc4f-11ea-856b-f93dd1956a09.gif" width="80%" height="80%"></img>
 # In Game
-<img src="https://user-images.githubusercontent.com/32826146/93765148-5d878580-fc4f-11ea-8022-434278b9e657.gif" width="50%" height="50%"></img>
+<img src="https://user-images.githubusercontent.com/32826146/93765148-5d878580-fc4f-11ea-8022-434278b9e657.gif" width="80%" height="80%"></img>
 
 # How to play the game?
   See https://youtu.be/Q1biY-LBVYk
